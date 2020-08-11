@@ -1,3 +1,3 @@
 module.exports = function(neighbour){
-    return "Hello, " + neighbour;
+    return "Hello, " + neighbour
 }
