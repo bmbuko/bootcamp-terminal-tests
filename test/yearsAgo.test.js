@@ -6,6 +6,6 @@ let yearsAgo = require("../yearsAgo");
         it("should  say how many years that was",function(){
             
             var year =1976
-            assert.equal("44",yearsAgo(year))
+            assert.equal("44",yearsAgo(year));
         });
     })
